@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Java Developer | Debugger by Passion</h3>
+<h3 align="center">🚀 AI & ML Enthusiast | BE THE EXCEPTION 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Developer" />
