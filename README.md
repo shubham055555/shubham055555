@@ -17,7 +17,7 @@
 - 📚 I'm currently diving deep into **Machine Learning**, exploring algorithms, model tuning, and real-world problem solving  
 - 🎯 Goal: To become an AI/ML engineer who builds impactful and intelligent systems  
 - 🎲 Fun fact: Sometimes my ML models predict my emotions better than I can 😅  
-- 💬 Ask me about **Python, TensorFlow, OpenCV, Java, SQL, ML, Flask, and Frontend Dev**
+- 💬 Notes chahiye Mail krr _---> shubhamramdhiraj@gmail.com
 
 ---
 
