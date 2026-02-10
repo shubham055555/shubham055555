@@ -13,7 +13,7 @@
 
 ### ✨ About Me
 
-- 🔭 I’m currently working on [**Real-Time Machine Learning Projects**](https://github.com/shubham/Facial-Emotion-Detection)  
+- 🔭 I’m currently working on [**Real-Time GEN AI Concepts & Projects**]((https://github.com/shubham055555/Generative-AI.git))  
 - 📚 I'm currently diving deep into **Machine Learning**, exploring algorithms, model tuning, and real-world problem solving  
 - 🎯 Goal: To become an AI/ML engineer who builds impactful and intelligent systems  
 - 🎲 Fun fact: Sometimes my ML models predict my emotions better than I can 😅  
