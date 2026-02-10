@@ -12,16 +12,15 @@
 ---
 
 ### ✨ About Me
-
 🔭 Currently working on real-time Generative AI concepts and projects
 
-📚 Deep diving into Machine Learning, Deep Learning, and Generative AI, focusing on algorithms, model tuning, and real-world problem solving
+📚 Deep diving into Machine Learning, Deep Learning, and Generative AI with a focus on algorithms, model tuning, and real-world problem solving
 
 🎯 Goal: To become an AI/ML Engineer who builds impactful and intelligent systems
 
 🎲 Fun fact: Sometimes my ML models predict my emotions better than I do
 
-💬 Need notes? Mail me at: shubhamramdhiraj@gmail.com
+💬 Notes & resources: shubhamramdhiraj@gmail.com
 ---
 
 ### 🛠️ Languages & Tools
