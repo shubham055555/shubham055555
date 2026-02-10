@@ -13,11 +13,11 @@
 
 ### ✨ About Me
 
-- 🔭 I’m currently working on [**Real-Time GEN AI Concepts & Projects**](https://github.com/shubham055555/Generative-AI.git)  
-- 📚 I'm currently diving deep into **Machine Learning**, Deep Learning // GEN AI exploring algorithms, model tuning, and real-world problem solving  
-- 🎯 Goal: To become an AI/ML engineer who builds impactful and intelligent systems  
-- 🎲 Fun fact: Sometimes my ML models predict my emotions better than I can 😅  
-- 💬 Notes chahiye Mail krr _---> shubhamramdhiraj@gmail.com
+🔭 Currently working on Real-Time Generative AI concepts & projects
+📚 Deep diving into Machine Learning, Deep Learning & GenAI — exploring algorithms, model tuning, and real-world problem solving
+🎯 Goal: To become an AI/ML Engineer who builds impactful and intelligent systems
+🎲 Fun fact: Sometimes my ML models predict my emotions better than I do 😅
+💬 Need notes? Mail me at: shubhamramdhiraj@gmail.com
 
 ---
 
