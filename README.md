@@ -20,7 +20,6 @@
 
 🎲 Fun fact: Sometimes my ML models predict my emotions better than I do
 
-💬 Notes & resources: shubhamramdhiraj@gmail.com
 ---
 
 ### 🛠️ Languages & Tools
