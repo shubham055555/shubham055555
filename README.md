@@ -104,11 +104,11 @@ Every contribution—big or small—helps me continue building useful AI tools f
 
 ---
 
-# 🐍 Contribution Snake
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shubham055555/shubham055555/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
