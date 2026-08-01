@@ -22,6 +22,18 @@
 
 ---
 
+🤝 Why Sponsor Me?
+
+Your sponsorship helps me:
+
+🚀 Build more open-source AI projects
+📚 Create free learning resources
+💻 Maintain existing repositories
+☁️ Cover cloud hosting and API costs
+🌍 Contribute more to the open-source community
+
+Every contribution, no matter the size, helps me continue building useful AI tools.
+
 ### 🛠️ Languages & Tools
 
 <p align="center">
