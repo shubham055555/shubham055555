@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">🚀 AI & ML Enthusiast | BE THE EXCEPTION</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <br><br>
 
 <p align="center">
