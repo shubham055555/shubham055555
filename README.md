@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">🚀 AI & ML Enthusiast | BE THE EXCEPTION</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Developer" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
+<br><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham055555&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
