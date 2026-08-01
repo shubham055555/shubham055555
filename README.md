@@ -13,17 +13,23 @@ Building practical AI applications and contributing to Open Source.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham055555&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shubham055555&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/shubham055555">
+    <img src="https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🔭 Building **Generative AI** and **Machine Learning** projects
-- 🌱 Learning **LLMs, RAG, AI Agents, LangChain & FastAPI**
-- 💡 Interested in AI automation, NLP and Computer Vision
-- 🎯 Goal: Build AI products that solve real-world problems
+- 🔭 Currently building **Generative AI** and **Machine Learning** projects.
+- 🌱 Learning **LLMs, RAG, AI Agents, LangChain, FastAPI & React**.
+- 💡 Passionate about AI Automation, NLP, Computer Vision & Open Source.
+- 🎯 Goal: Build intelligent systems that solve real-world problems.
 - ⚡ Fun Fact: Sometimes my ML models predict better than I do 😄
 
 ---
@@ -34,8 +40,9 @@ Building practical AI applications and contributing to Open Source.
 - 💬 AI Chatbots
 - 🧠 Retrieval-Augmented Generation (RAG)
 - ⚡ FastAPI Backend Development
-- 🌐 React Frontend
+- 🌐 React Frontend Development
 - ☁️ AI Deployment
+- 📊 Machine Learning Projects
 
 ---
 
@@ -43,8 +50,8 @@ Building practical AI applications and contributing to Open Source.
 
 Your sponsorship helps me:
 
-- 🚀 Build high-quality open-source AI projects
-- 📚 Create free educational content
+- 🚀 Build more open-source AI projects
+- 📚 Create free learning resources
 - 💻 Maintain existing repositories
 - ☁️ Cover cloud hosting & API costs
 - 🌍 Contribute more to the open-source community
@@ -57,40 +64,55 @@ Every contribution—big or small—helps me continue building useful AI tools f
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,tensorflow,pytorch,opencv,postgres,mysql,git,github,vscode,jupyter,linux,docker,aws,gcp&perline=9"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham055555&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham055555&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham055555&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham055555&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham055555&layout=compact&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=shubham055555&theme=radical"/>
+</p>
+
+<p align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=shubham055555&theme=radical&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham055555&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubham055555/shubham055555/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -102,14 +124,20 @@ Every contribution—big or small—helps me continue building useful AI tools f
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories or sponsoring my open-source projects.
+If you like my work, consider ⭐ starring my repositories or ❤️ sponsoring my open-source projects.
+
+### 🚀 "Code. Learn. Build. Repeat."
 
 </div>
