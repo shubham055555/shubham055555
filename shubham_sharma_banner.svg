@@ -1,0 +1,234 @@
+<svg viewBox="0 0 1400 380" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b3ec4"/>
+      <stop offset="20%" stop-color="#4285F4"/>
+      <stop offset="40%" stop-color="#1fb6c9"/>
+      <stop offset="60%" stop-color="#34A853"/>
+      <stop offset="80%" stop-color="#FBBC05"/>
+      <stop offset="100%" stop-color="#EA4335"/>
+    </linearGradient>
+  </defs>
+
+  <!-- outer dark frame -->
+  <rect width="1400" height="380" fill="#0d1117"/>
+  <!-- inner white card -->
+  <rect x="32" y="25" width="1336" height="330" rx="14" fill="#ffffff"/>
+
+  <clipPath id="cardClip">
+    <rect x="32" y="25" width="1336" height="330" rx="14"/>
+  </clipPath>
+
+  <g clip-path="url(#cardClip)">
+
+    <!-- decorative pale circles -->
+    <circle cx="180" cy="112" r="55" fill="#e8f0fe">
+      <animate attributeName="r" values="55;60;55" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1250" cy="100" r="70" fill="#fce8e6">
+      <animate attributeName="r" values="70;75;70" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="215" cy="335" r="48" fill="#e6f4ea" opacity="0.85">
+      <animate attributeName="r" values="48;52;48" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1215" cy="308" r="62" fill="#fef7e0">
+      <animate attributeName="r" values="62;67;62" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- small dot clusters -->
+    <g fill="#4285F4">
+      <circle cx="360" cy="70" r="3"/>
+      <circle cx="372" cy="70" r="3"/>
+      <circle cx="360" cy="82" r="3"/>
+    </g>
+    <g fill="#FBBC05">
+      <circle cx="618" cy="66" r="2.5"/>
+      <circle cx="628" cy="66" r="2.5"/>
+      <circle cx="623" cy="76" r="2.5"/>
+    </g>
+    <g fill="#EA4335">
+      <circle cx="1020" cy="78" r="3"/>
+    </g>
+    <g fill="#4285F4" opacity="0.7">
+      <circle cx="258" cy="318" r="2.5"/>
+      <circle cx="266" cy="326" r="2.5"/>
+      <circle cx="258" cy="334" r="2.5"/>
+    </g>
+
+    <!-- sparkle stars (rotating) -->
+    <g transform="translate(238,196)" fill="#FBBC05">
+      <path d="M0,-11 C1,-3 3,-1 11,0 C3,1 1,3 0,11 C-1,3 -3,1 -11,0 C-3,-1 -1,-3 0,-11 Z">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g transform="translate(1198,186)" fill="#FBBC05">
+      <path d="M0,-9 C0.8,-2.5 2.5,-0.8 9,0 C2.5,0.8 0.8,2.5 0,9 C-0.8,2.5 -2.5,0.8 -9,0 C-2.5,-0.8 -0.8,-2.5 0,-9 Z">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- title -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.7s" fill="freeze"/>
+      <text x="700" y="128" font-size="58" font-weight="900" text-anchor="middle" fill="#1a1a1a">Shubham Sharma</text>
+    </g>
+
+    <!-- animated gradient underline -->
+    <rect x="430" y="148" width="0" height="4" rx="2" fill="url(#rainbow)">
+      <animate attributeName="width" from="0" to="540" begin="0.5s" dur="1s" fill="freeze"/>
+      <animate attributeName="x" from="700" to="430" begin="0.5s" dur="1s" fill="freeze"/>
+    </rect>
+
+    <!-- subtitle -->
+    <text x="700" y="195" font-size="24" text-anchor="middle" fill="#5f6368" opacity="0">
+      Aspiring AI/ML Engineer | Generative AI Enthusiast | ML &amp; DL Explorer
+      <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.8s" fill="freeze"/>
+    </text>
+
+    <!-- skill badges -->
+    <!-- 0 Python -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="1.3s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="1.8s" dur="3s" repeatCount="indefinite"/>
+        <circle cx="170" cy="270" r="46" fill="#e8f0fe"/>
+        <circle cx="170" cy="270" r="38" fill="#4285F4" stroke="#ffffff" stroke-width="3"/>
+        <text x="170" y="274" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">Python</text>
+      </g>
+    </g>
+
+    <!-- 1 ML -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="1.4s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="1.9s" dur="3.2s" repeatCount="indefinite"/>
+        <circle cx="266" cy="270" r="46" fill="#fce8e6"/>
+        <circle cx="266" cy="270" r="38" fill="#EA4335" stroke="#ffffff" stroke-width="3"/>
+        <text x="266" y="275" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">ML</text>
+      </g>
+    </g>
+
+    <!-- 2 DL -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="1.5s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.0s" dur="2.9s" repeatCount="indefinite"/>
+        <circle cx="362" cy="270" r="46" fill="#fef7e0"/>
+        <circle cx="362" cy="270" r="38" fill="#FBBC05" stroke="#ffffff" stroke-width="3"/>
+        <text x="362" y="275" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">DL</text>
+      </g>
+    </g>
+
+    <!-- 3 NLP -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="1.6s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.1s" dur="3.4s" repeatCount="indefinite"/>
+        <circle cx="458" cy="270" r="46" fill="#e6f4ea"/>
+        <circle cx="458" cy="270" r="38" fill="#34A853" stroke="#ffffff" stroke-width="3"/>
+        <text x="458" y="274" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">NLP</text>
+      </g>
+    </g>
+
+    <!-- 4 GCP -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="1.7s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.2s" dur="3.1s" repeatCount="indefinite"/>
+        <circle cx="554" cy="270" r="46" fill="#e8f0fe"/>
+        <circle cx="554" cy="270" r="38" fill="#4285F4" stroke="#ffffff" stroke-width="3"/>
+        <text x="554" y="274" font-size="11" font-weight="bold" text-anchor="middle" fill="#ffffff">GenAI</text>
+      </g>
+    </g>
+
+    <!-- 5 MLOps -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="1.8s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.3s" dur="3.3s" repeatCount="indefinite"/>
+        <circle cx="650" cy="270" r="46" fill="#fce8e6"/>
+        <circle cx="650" cy="270" r="38" fill="#EA4335" stroke="#ffffff" stroke-width="3"/>
+        <text x="650" y="275" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">CV</text>
+      </g>
+    </g>
+
+    <!-- 6 SQL -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="1.9s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.4s" dur="3s" repeatCount="indefinite"/>
+        <circle cx="746" cy="270" r="46" fill="#fef7e0"/>
+        <circle cx="746" cy="270" r="38" fill="#FBBC05" stroke="#ffffff" stroke-width="3"/>
+        <text x="746" y="274" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">SQL</text>
+      </g>
+    </g>
+
+    <!-- 7 TensorFlow -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="2.0s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.5s" dur="3.5s" repeatCount="indefinite"/>
+        <circle cx="842" cy="270" r="46" fill="#e6f4ea"/>
+        <circle cx="842" cy="270" r="38" fill="#34A853" stroke="#ffffff" stroke-width="3"/>
+        <text x="842" y="273" font-size="9" font-weight="bold" text-anchor="middle" fill="#ffffff">TensorFlow</text>
+      </g>
+    </g>
+
+    <!-- 8 PyTorch -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="2.1s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.6s" dur="3.2s" repeatCount="indefinite"/>
+        <circle cx="938" cy="270" r="46" fill="#e8f0fe"/>
+        <circle cx="938" cy="270" r="38" fill="#4285F4" stroke="#ffffff" stroke-width="3"/>
+        <text x="938" y="274" font-size="10.5" font-weight="bold" text-anchor="middle" fill="#ffffff">PyTorch</text>
+      </g>
+    </g>
+
+    <!-- 9 LLM -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="2.2s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.7s" dur="2.9s" repeatCount="indefinite"/>
+        <circle cx="1034" cy="270" r="46" fill="#fce8e6"/>
+        <circle cx="1034" cy="270" r="38" fill="#EA4335" stroke="#ffffff" stroke-width="3"/>
+        <text x="1034" y="274" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">LLM</text>
+      </g>
+    </g>
+
+    <!-- 10 Azure AI -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="2.3s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.8s" dur="3.4s" repeatCount="indefinite"/>
+        <circle cx="1130" cy="270" r="46" fill="#fef7e0"/>
+        <circle cx="1130" cy="270" r="38" fill="#FBBC05" stroke="#ffffff" stroke-width="3"/>
+        <text x="1130" y="274" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Keras</text>
+      </g>
+    </g>
+
+    <!-- 11 Dialogflow -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" begin="2.4s" dur="0.5s" fill="freeze" additive="sum"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" begin="2.9s" dur="3.1s" repeatCount="indefinite"/>
+        <circle cx="1226" cy="270" r="46" fill="#e6f4ea"/>
+        <circle cx="1226" cy="270" r="38" fill="#34A853" stroke="#ffffff" stroke-width="3"/>
+        <text x="1226" y="274" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">Pandas</text>
+      </g>
+    </g>
+
+  </g>
+</svg>
