@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | BE THE EXCEPTION</h3>
-
 <p align="center">
   <img src="./shubham_sharma_banner.svg" alt="Shubham Sharma Banner" width="100%" />
 </p>
