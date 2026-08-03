@@ -1,5 +1,5 @@
 <center>
-    <h1><img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Coder GIF" width="50" height="50"> <img src="https://media.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" alt="Coder GIF" width="50" height="50"> Welcome to My GenerativeAI and Machine learning GitHub
+    <h1><img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Coder GIF" width="50" height="50"> <img src="https://media.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" alt="Coder GIF" width="50" height="50"> Welcome to My GenerativeAI and Machine learning 
 
 <p align="center">
   <img src="./shubham_sharma_banner.svg" alt="Shubham Sharma Banner" width="100%" />
