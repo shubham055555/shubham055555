@@ -41,10 +41,8 @@ Every contribution, no matter the size, motivates me to keep building useful AI 
 
 ---
 
-### 🛠️ Languages & Tools
-
 <p align="center">
-  <img src="./languages_tools_banner.svg" alt="Languages & Tools Banner" width="100%" />
+  <img src="./languages_tools_banner.svg" alt="Languages & Tools Banner" width="100%">
 </p>
 ---
 
